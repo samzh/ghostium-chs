@@ -353,7 +353,7 @@ module.exports = function(grunt) {
      */
     changelog: {
       options: {
-        github: 'oswaldoacauan/ghostium'
+        github: 'samzh/ghostium-chs'
       }
     },
   });
