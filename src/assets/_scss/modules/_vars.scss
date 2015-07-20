@@ -27,9 +27,9 @@ $primary-color: #57A3E8;
 // TYPO
 //----------------------------------*/
 
-$title-font-family: "Noto Sans", "Roboto", "Open Sans", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+$title-font-family: "Open Sans", Helvetica, Tahoma, Arial,"Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
 
-$text-font-family: "Noto Sans", "Roboto", "Open Sans", Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+$text-font-family: "Open Sans", Helvetica, Tahoma, Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
 
 //----------------------------------*\
 // DRAWER
@@ -47,3 +47,9 @@ $input-font-family: $title-font-family;
 $input-background-color: $line-breaks-color;
 $input-text-color: $text-color;
 $input-placeholder-color: $muted-text-color;
+
+
+//----------------------------------*\
+// FOOTER
+//----------------------------------*/
+$footer-color: #fff;

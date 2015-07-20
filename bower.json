@@ -1,6 +1,6 @@
 {
   "name": "Ghostium-chs",
-  "version": "2.2.3",
+  "version": "2.2.0",
   "dependencies": {
     "modernizr": "~2.6.2",
     "jquery": "~2.0.3",
@@ -9,7 +9,7 @@
   "homepage": "http://ghostium.oswaldoacauan.com/",
   "authors": [
     "Oswaldo Acauan <hello@oswaldoacauan.com>",
-    "Sam Zheng" <samzh.zz@gmail.com>
+    "Sam Zheng <samzh.zz@gmail.com>"
   ],
   "description": "A Ghost theme focused on content based on Medium design/ux",
   "license": "MIT",

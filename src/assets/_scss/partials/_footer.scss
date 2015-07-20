@@ -1,7 +1,20 @@
+.footer-container {
+  position: fixed;
+  padding: 0 8% 0 0;
+  max-width: 910px;
+  bottom: 0;
+  width: 100%;
+  background-color: $footer-color;
+}
+
 .footer {
-  font-family: "Open Sans", sans-serif;
+  font-family: $text-font-family;
   padding: 20px 0;
-  border-top: 2px solid $line-breaks-color;
+
+  .hr-separator {
+    width: 100%;
+  }
+
   color: $muted-text-color;
 
   a {
